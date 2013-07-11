@@ -17,7 +17,7 @@ Description
 
 	Click the link below to see the program
 
-	`link <https://github.com/Christina-B/hometask_christina/blob/master/mount v2/mount.py/>`_
+	`link <https://github.com/Christina-B/hometask_christina/blob/master/mount%20v2/mount.py>`_
 
 	Execute the program using following command
 		$ chmod +x mount.py
