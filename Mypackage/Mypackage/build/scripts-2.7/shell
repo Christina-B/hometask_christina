@@ -1,0 +1,2 @@
+#!/home/christina/my_env/bin/python
+from Mypackage import Myshell
